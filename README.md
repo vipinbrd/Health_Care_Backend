@@ -79,10 +79,7 @@ This is a backend system for a healthcare application built using **Spring Boot*
 
 ## ⚙️ Setup Instructions
 
-1. **Clone the repo**
-   ```bash
-   git clone https://github.com/your-repo/healthcare-backend.git
-   cd healthcare-backend
+
 Configure MySQL
 
 Create a database healthcare_db
